@@ -30,6 +30,7 @@ Thumbs.db
 *.un~
 *.pyc
 *.swp
+*.bosh
 
 # VSCode files
 .vscode/
