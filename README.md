@@ -20,7 +20,7 @@
 
 ![](https://raw.githubusercontent.com/natenka/PyNEng/master/images/git/github_use_template.png)
 
-### Клонирование репозитория с GitHub
+### Клонирование репозитория  с GitHub
 
 Для локальной работы с репозиторием его нужно клонировать.
 Для этого используется команда git clone:
